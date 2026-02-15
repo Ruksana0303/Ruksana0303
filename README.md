@@ -21,7 +21,6 @@ Developed a Convolutional Neural Network (CNN) model to recognize hand gestures 
 **Tech Stack:** Python, OpenCV  
 
 Designed and developed a gesture-controlled robotic arm using computer vision. Implemented hand tracking with OpenCV to capture real-time gestures and convert them into robotic arm movements for touchless control and automation.  
-[View on GitHub](https://github.com/sksohail19/URL-Shortener.git)
 
 ## 🎓 Education
 
